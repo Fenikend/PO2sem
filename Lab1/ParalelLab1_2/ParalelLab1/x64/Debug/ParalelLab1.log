@@ -1,7 +1,0 @@
-﻿  ParalelLab1_2.cpp
-C:\Users\nichi\source\repos\ParalelLab1\ParalelLab1\ParalelLab1_2.cpp(18,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\nichi\source\repos\ParalelLab1\ParalelLab1\ParalelLab1_2.cpp(31,43): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
-C:\Users\nichi\source\repos\ParalelLab1\ParalelLab1\ParalelLab1_2.cpp(32,52): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
-C:\Users\nichi\source\repos\ParalelLab1\ParalelLab1\ParalelLab1_2.cpp(48,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\nichi\source\repos\ParalelLab1\ParalelLab1\ParalelLab1_2.cpp(51,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  ParalelLab1.vcxproj -> C:\Users\nichi\source\repos\ParalelLab1\x64\Debug\ParalelLab1.exe
