@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ParalelLab1c.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ParalelLab1c.cpp
+  ParalelLab1c.vcxproj -> C:\Users\nichi\source\repos\ParalelLab1c\x64\Debug\ParalelLab1_Task1-2.exe
