@@ -1,0 +1,4 @@
+﻿  ParalelLab2.cpp
+C:\Users\nichi\source\repos\ParalelLab2\ParalelLab2\ParalelLab2.cpp(14,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\nichi\source\repos\ParalelLab2\ParalelLab2\ParalelLab2.cpp(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ParalelLab2.vcxproj -> C:\Users\nichi\source\repos\ParalelLab2\x64\Debug\ParalelLab2.exe
