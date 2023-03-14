@@ -1,0 +1,3 @@
+﻿  ParalelLab3.cpp
+C:\Users\nichi\source\repos\ParalelLab3\ParalelLab3\ParalelLab3.cpp(25,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ParalelLab3.vcxproj -> C:\Users\nichi\source\repos\ParalelLab3\x64\Debug\ParalelLab3.exe
