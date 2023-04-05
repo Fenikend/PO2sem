@@ -31,7 +31,7 @@ int main()
         }
         srand(time(0));
         for (int i = 0; i < N; i++) {
-            for (int j = 0; j < N; j++) {
+            for (int j = i; j < N; j++) {
                 A[i][j] = rand() % 100;
                 if (i > j) {
                     B[i][j] = 0;
