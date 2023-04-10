@@ -1,0 +1,4 @@
+﻿  ParalelLab5.cpp
+C:\Users\nichi\source\repos\ParalelLab5\ParalelLab5\ParalelLab5.cpp(23,24): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\nichi\source\repos\ParalelLab5\ParalelLab5\ParalelLab5.cpp(23,13): warning C4309: 'initializing': truncation of constant value
+  ParalelLab5.vcxproj -> C:\Users\nichi\source\repos\ParalelLab5\x64\Debug\ParalelLab5.exe
